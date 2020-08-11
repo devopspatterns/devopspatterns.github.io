@@ -3,11 +3,11 @@ languageCode = "en-us"
 title = "DevOps Patterns"
 theme = "hugo-theme-learn"
 publishDir = "docs"
-disableSearch = true
-editURL = "https://github.com/devopspatterns/devopspatterns.github.io/edit/master/content/"
 
 [params]
 themeVariant = "devops"
+disableSearch = true
+editURL = "https://github.com/devopspatterns/devopspatterns.github.io/edit/master/content/"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
