@@ -3,321 +3,321 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.devopspatterns.org/build/automate-the-build/</loc>
+    <loc>https://devopspatterns.github.io/build/automate-the-build/</loc>
     <lastmod>2020-08-10T13:45:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/scm-usage/</loc>
+    <loc>https://devopspatterns.github.io/development/scm-usage/</loc>
     <lastmod>2020-08-10T09:06:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/requirements-tooling/</loc>
+    <loc>https://devopspatterns.github.io/plan/requirements-tooling/</loc>
     <lastmod>2020-08-10T09:04:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/</loc>
+    <loc>https://devopspatterns.github.io/plan/</loc>
     <lastmod>2020-08-10T09:03:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/continuous-integration/</loc>
+    <loc>https://devopspatterns.github.io/build/continuous-integration/</loc>
     <lastmod>2020-08-10T13:46:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/branching-strategies/</loc>
+    <loc>https://devopspatterns.github.io/development/branching-strategies/</loc>
     <lastmod>2020-08-10T09:07:13-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/</loc>
+    <loc>https://devopspatterns.github.io/development/</loc>
     <lastmod>2020-08-10T09:05:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/agile-planning/</loc>
+    <loc>https://devopspatterns.github.io/plan/agile-planning/</loc>
     <lastmod>2020-08-10T09:03:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/fail-fast/</loc>
+    <loc>https://devopspatterns.github.io/build/fail-fast/</loc>
     <lastmod>2020-08-10T13:46:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/</loc>
+    <loc>https://devopspatterns.github.io/build/</loc>
     <lastmod>2020-08-10T13:44:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/changesets/</loc>
+    <loc>https://devopspatterns.github.io/development/changesets/</loc>
     <lastmod>2020-08-10T09:07:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/limit-wip/</loc>
+    <loc>https://devopspatterns.github.io/plan/limit-wip/</loc>
     <lastmod>2020-08-10T09:03:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/</loc>
+    <loc>https://devopspatterns.github.io/deploy/</loc>
     <lastmod>2020-08-10T13:51:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/job-config-as-code/</loc>
+    <loc>https://devopspatterns.github.io/build/job-config-as-code/</loc>
     <lastmod>2020-08-10T13:47:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/distributed-work/</loc>
+    <loc>https://devopspatterns.github.io/development/distributed-work/</loc>
     <lastmod>2020-08-10T09:07:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/multi-functional-teams/</loc>
+    <loc>https://devopspatterns.github.io/plan/multi-functional-teams/</loc>
     <lastmod>2020-08-10T09:04:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/</loc>
+    <loc>https://devopspatterns.github.io/test/</loc>
     <lastmod>2020-08-10T14:37:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/trigger-the-build/</loc>
+    <loc>https://devopspatterns.github.io/build/trigger-the-build/</loc>
     <lastmod>2020-08-10T13:47:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/coding-standards/</loc>
+    <loc>https://devopspatterns.github.io/development/coding-standards/</loc>
     <lastmod>2020-08-10T09:08:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/value-stream-analysis/</loc>
+    <loc>https://devopspatterns.github.io/plan/value-stream-analysis/</loc>
     <lastmod>2020-08-10T09:06:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/</loc>
+    <loc>https://devopspatterns.github.io/release/</loc>
     <lastmod>2020-08-10T14:42:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/validate-merges/</loc>
+    <loc>https://devopspatterns.github.io/build/validate-merges/</loc>
     <lastmod>2020-08-10T13:47:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/modular-architecture/</loc>
+    <loc>https://devopspatterns.github.io/development/modular-architecture/</loc>
     <lastmod>2020-08-10T09:08:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/</loc>
+    <loc>https://devopspatterns.github.io/operate/</loc>
     <lastmod>2020-08-10T14:46:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/capability-based-agents/</loc>
+    <loc>https://devopspatterns.github.io/build/capability-based-agents/</loc>
     <lastmod>2020-08-10T13:45:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/ephermal-agents/</loc>
+    <loc>https://devopspatterns.github.io/build/ephermal-agents/</loc>
     <lastmod>2020-08-10T13:46:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/immutable-agents/</loc>
+    <loc>https://devopspatterns.github.io/build/immutable-agents/</loc>
     <lastmod>2020-08-10T13:46:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/</loc>
+    <loc>https://devopspatterns.github.io/</loc>
     <lastmod>2020-08-10T14:48:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/security-reviews/</loc>
+    <loc>https://devopspatterns.github.io/operate/security-reviews/</loc>
     <lastmod>2020-08-10T14:48:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/high-availability/</loc>
+    <loc>https://devopspatterns.github.io/operate/high-availability/</loc>
     <lastmod>2020-08-10T14:48:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/preemptive-notifications/</loc>
+    <loc>https://devopspatterns.github.io/operate/preemptive-notifications/</loc>
     <lastmod>2020-08-10T14:48:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/aggregate-logging/</loc>
+    <loc>https://devopspatterns.github.io/operate/aggregate-logging/</loc>
     <lastmod>2020-08-10T14:47:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/backup-restore/</loc>
+    <loc>https://devopspatterns.github.io/operate/backup-restore/</loc>
     <lastmod>2020-08-10T14:47:12-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/flexible-resources/</loc>
+    <loc>https://devopspatterns.github.io/operate/flexible-resources/</loc>
     <lastmod>2020-08-10T14:47:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/immutable-infrastructure/</loc>
+    <loc>https://devopspatterns.github.io/operate/immutable-infrastructure/</loc>
     <lastmod>2020-08-10T14:46:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/operate/configuration-management/</loc>
+    <loc>https://devopspatterns.github.io/operate/configuration-management/</loc>
     <lastmod>2020-08-10T14:46:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/package-release/</loc>
+    <loc>https://devopspatterns.github.io/release/package-release/</loc>
     <lastmod>2020-08-10T14:44:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/package-identification/</loc>
+    <loc>https://devopspatterns.github.io/release/package-identification/</loc>
     <lastmod>2020-08-10T14:44:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/external-library-use/</loc>
+    <loc>https://devopspatterns.github.io/release/external-library-use/</loc>
     <lastmod>2020-08-10T14:44:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/automated-release/</loc>
+    <loc>https://devopspatterns.github.io/release/automated-release/</loc>
     <lastmod>2020-08-10T14:44:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/artifact-scanning/</loc>
+    <loc>https://devopspatterns.github.io/release/artifact-scanning/</loc>
     <lastmod>2020-08-10T14:44:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/release/artifact-repository/</loc>
+    <loc>https://devopspatterns.github.io/release/artifact-repository/</loc>
     <lastmod>2020-08-10T14:43:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/incremental-testing/</loc>
+    <loc>https://devopspatterns.github.io/test/incremental-testing/</loc>
     <lastmod>2020-08-10T14:38:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/visualize-results/</loc>
+    <loc>https://devopspatterns.github.io/test/visualize-results/</loc>
     <lastmod>2020-08-10T14:38:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/fail-the-build/</loc>
+    <loc>https://devopspatterns.github.io/test/fail-the-build/</loc>
     <lastmod>2020-08-10T14:38:26-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/tests-as-code/</loc>
+    <loc>https://devopspatterns.github.io/test/tests-as-code/</loc>
     <lastmod>2020-08-10T14:38:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/test/unit-test/</loc>
+    <loc>https://devopspatterns.github.io/test/unit-test/</loc>
     <lastmod>2020-08-10T14:38:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/no-downtime-deployments/</loc>
+    <loc>https://devopspatterns.github.io/deploy/no-downtime-deployments/</loc>
     <lastmod>2020-08-10T13:53:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/smaller-deployments/</loc>
+    <loc>https://devopspatterns.github.io/deploy/smaller-deployments/</loc>
     <lastmod>2020-08-10T13:52:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/optimize-for-resilency/</loc>
+    <loc>https://devopspatterns.github.io/deploy/optimize-for-resilency/</loc>
     <lastmod>2020-08-10T13:52:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/flexible-resources/</loc>
+    <loc>https://devopspatterns.github.io/deploy/flexible-resources/</loc>
     <lastmod>2020-08-10T13:52:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/limit-blast-radius/</loc>
+    <loc>https://devopspatterns.github.io/deploy/limit-blast-radius/</loc>
     <lastmod>2020-08-10T13:52:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/config-as-code/</loc>
+    <loc>https://devopspatterns.github.io/deploy/config-as-code/</loc>
     <lastmod>2020-08-10T13:51:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/deploy/automate-provisioning/</loc>
+    <loc>https://devopspatterns.github.io/deploy/automate-provisioning/</loc>
     <lastmod>2020-08-10T13:51:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/visualize-build-status/</loc>
+    <loc>https://devopspatterns.github.io/build/visualize-build-status/</loc>
     <lastmod>2020-08-10T13:47:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/simplify-onboarding/</loc>
+    <loc>https://devopspatterns.github.io/build/simplify-onboarding/</loc>
     <lastmod>2020-08-10T13:47:18-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/build/autocreate-build-job/</loc>
+    <loc>https://devopspatterns.github.io/build/autocreate-build-job/</loc>
     <lastmod>2020-08-10T13:45:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/traceability/</loc>
+    <loc>https://devopspatterns.github.io/development/traceability/</loc>
     <lastmod>2020-08-10T09:08:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/innersourcing/</loc>
+    <loc>https://devopspatterns.github.io/development/innersourcing/</loc>
     <lastmod>2020-08-10T09:08:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/code-reviews/</loc>
+    <loc>https://devopspatterns.github.io/development/code-reviews/</loc>
     <lastmod>2020-08-10T09:08:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/development/micro-vs-mono-repo/</loc>
+    <loc>https://devopspatterns.github.io/development/micro-vs-mono-repo/</loc>
     <lastmod>2020-08-10T09:07:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/plan/democratic-product-mgt/</loc>
+    <loc>https://devopspatterns.github.io/plan/democratic-product-mgt/</loc>
     <lastmod>2020-08-10T09:06:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/categories/</loc>
+    <loc>https://devopspatterns.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.devopspatterns.org/tags/</loc>
+    <loc>https://devopspatterns.github.io/tags/</loc>
   </url>
   
 </urlset>

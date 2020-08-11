@@ -1,447 +1,447 @@
 [
 {
-	"uri": "https://www.devopspatterns.org/build/automate-the-build/",
+	"uri": "https://devopspatterns.github.io/build/automate-the-build/",
 	"title": "Automate the Build",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/scm-usage/",
+	"uri": "https://devopspatterns.github.io/development/scm-usage/",
 	"title": "SCM Usage",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/requirements-tooling/",
+	"uri": "https://devopspatterns.github.io/plan/requirements-tooling/",
 	"title": "Requirements Tooling",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/",
+	"uri": "https://devopspatterns.github.io/plan/",
 	"title": "Plan",
 	"tags": [],
 	"description": "",
 	"content": "Plan These are basic planning patterns.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/continuous-integration/",
+	"uri": "https://devopspatterns.github.io/build/continuous-integration/",
 	"title": "Continuous Integration",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/branching-strategies/",
+	"uri": "https://devopspatterns.github.io/development/branching-strategies/",
 	"title": "Branching Strategies",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/",
+	"uri": "https://devopspatterns.github.io/development/",
 	"title": "Development",
 	"tags": [],
 	"description": "",
 	"content": "Development Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/agile-planning/",
+	"uri": "https://devopspatterns.github.io/plan/agile-planning/",
 	"title": "Agile Planning",
 	"tags": [],
 	"description": "",
 	"content": "This is some content\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/fail-fast/",
+	"uri": "https://devopspatterns.github.io/build/fail-fast/",
 	"title": "Fail Fast",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/",
+	"uri": "https://devopspatterns.github.io/build/",
 	"title": "Build",
 	"tags": [],
 	"description": "",
 	"content": "Build Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/development/changesets/",
+	"uri": "https://devopspatterns.github.io/development/changesets/",
 	"title": "Changesets",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/limit-wip/",
+	"uri": "https://devopspatterns.github.io/plan/limit-wip/",
 	"title": "Limit Wip",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/",
+	"uri": "https://devopspatterns.github.io/deploy/",
 	"title": "Deploy",
 	"tags": [],
 	"description": "",
 	"content": "Deploy Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/job-config-as-code/",
+	"uri": "https://devopspatterns.github.io/build/job-config-as-code/",
 	"title": "Job Config as Code",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/distributed-work/",
+	"uri": "https://devopspatterns.github.io/development/distributed-work/",
 	"title": "Distributed Work",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/multi-functional-teams/",
+	"uri": "https://devopspatterns.github.io/plan/multi-functional-teams/",
 	"title": "Multi Functional Teams",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/",
+	"uri": "https://devopspatterns.github.io/test/",
 	"title": "Test",
 	"tags": [],
 	"description": "",
 	"content": "Test Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/trigger-the-build/",
+	"uri": "https://devopspatterns.github.io/build/trigger-the-build/",
 	"title": "Trigger the Build",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/coding-standards/",
+	"uri": "https://devopspatterns.github.io/development/coding-standards/",
 	"title": "Coding Standards",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/value-stream-analysis/",
+	"uri": "https://devopspatterns.github.io/plan/value-stream-analysis/",
 	"title": "Value Stream Analysis",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/",
+	"uri": "https://devopspatterns.github.io/release/",
 	"title": "Release",
 	"tags": [],
 	"description": "",
 	"content": "Release Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/validate-merges/",
+	"uri": "https://devopspatterns.github.io/build/validate-merges/",
 	"title": "Validate Merges",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/modular-architecture/",
+	"uri": "https://devopspatterns.github.io/development/modular-architecture/",
 	"title": "Modular Architecture",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/",
+	"uri": "https://devopspatterns.github.io/operate/",
 	"title": "Operate",
 	"tags": [],
 	"description": "",
 	"content": "Operate Lorem Ipsum.\n"
 },
 {
-	"uri": "https://www.devopspatterns.org/build/capability-based-agents/",
+	"uri": "https://devopspatterns.github.io/build/capability-based-agents/",
 	"title": "Capability Based Agents",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/ephermal-agents/",
+	"uri": "https://devopspatterns.github.io/build/ephermal-agents/",
 	"title": "Ephermal Agents",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/immutable-agents/",
+	"uri": "https://devopspatterns.github.io/build/immutable-agents/",
 	"title": "Immutable Agents",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/",
+	"uri": "https://devopspatterns.github.io/",
 	"title": "DevOps Patterns",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/security-reviews/",
+	"uri": "https://devopspatterns.github.io/operate/security-reviews/",
 	"title": "Security Reviews",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/high-availability/",
+	"uri": "https://devopspatterns.github.io/operate/high-availability/",
 	"title": "High Availability",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/preemptive-notifications/",
+	"uri": "https://devopspatterns.github.io/operate/preemptive-notifications/",
 	"title": "Preemptive Notifications",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/aggregate-logging/",
+	"uri": "https://devopspatterns.github.io/operate/aggregate-logging/",
 	"title": "Aggregate Logging",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/backup-restore/",
+	"uri": "https://devopspatterns.github.io/operate/backup-restore/",
 	"title": "Backup Restore",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/flexible-resources/",
+	"uri": "https://devopspatterns.github.io/operate/flexible-resources/",
 	"title": "Flexible Resources",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/immutable-infrastructure/",
+	"uri": "https://devopspatterns.github.io/operate/immutable-infrastructure/",
 	"title": "Immutable Infrastructure",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/operate/configuration-management/",
+	"uri": "https://devopspatterns.github.io/operate/configuration-management/",
 	"title": "Configuration Management",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/package-release/",
+	"uri": "https://devopspatterns.github.io/release/package-release/",
 	"title": "Package Release",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/package-identification/",
+	"uri": "https://devopspatterns.github.io/release/package-identification/",
 	"title": "Package Identification",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/external-library-use/",
+	"uri": "https://devopspatterns.github.io/release/external-library-use/",
 	"title": "External Library Use",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/automated-release/",
+	"uri": "https://devopspatterns.github.io/release/automated-release/",
 	"title": "Automated Release",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/artifact-scanning/",
+	"uri": "https://devopspatterns.github.io/release/artifact-scanning/",
 	"title": "Artifact Scanning",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/release/artifact-repository/",
+	"uri": "https://devopspatterns.github.io/release/artifact-repository/",
 	"title": "Artifact Repository",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/incremental-testing/",
+	"uri": "https://devopspatterns.github.io/test/incremental-testing/",
 	"title": "Incremental Testing",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/visualize-results/",
+	"uri": "https://devopspatterns.github.io/test/visualize-results/",
 	"title": "Visualize Results",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/fail-the-build/",
+	"uri": "https://devopspatterns.github.io/test/fail-the-build/",
 	"title": "Fail the Build",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/tests-as-code/",
+	"uri": "https://devopspatterns.github.io/test/tests-as-code/",
 	"title": "Tests as Code",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/test/unit-test/",
+	"uri": "https://devopspatterns.github.io/test/unit-test/",
 	"title": "Unit Test",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/no-downtime-deployments/",
+	"uri": "https://devopspatterns.github.io/deploy/no-downtime-deployments/",
 	"title": "No Downtime Deployments",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/smaller-deployments/",
+	"uri": "https://devopspatterns.github.io/deploy/smaller-deployments/",
 	"title": "Smaller Deployments",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/optimize-for-resilency/",
+	"uri": "https://devopspatterns.github.io/deploy/optimize-for-resilency/",
 	"title": "Optimize for Resilency",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/flexible-resources/",
+	"uri": "https://devopspatterns.github.io/deploy/flexible-resources/",
 	"title": "Flexible Resources",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/limit-blast-radius/",
+	"uri": "https://devopspatterns.github.io/deploy/limit-blast-radius/",
 	"title": "Limit Blast Radius",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/config-as-code/",
+	"uri": "https://devopspatterns.github.io/deploy/config-as-code/",
 	"title": "Config as Code",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/deploy/automate-provisioning/",
+	"uri": "https://devopspatterns.github.io/deploy/automate-provisioning/",
 	"title": "Automate Provisioning",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/visualize-build-status/",
+	"uri": "https://devopspatterns.github.io/build/visualize-build-status/",
 	"title": "Visualize Build Status",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/simplify-onboarding/",
+	"uri": "https://devopspatterns.github.io/build/simplify-onboarding/",
 	"title": "Simplify Onboarding",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/build/autocreate-build-job/",
+	"uri": "https://devopspatterns.github.io/build/autocreate-build-job/",
 	"title": "Autocreate Build Job",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/traceability/",
+	"uri": "https://devopspatterns.github.io/development/traceability/",
 	"title": "Traceability",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/innersourcing/",
+	"uri": "https://devopspatterns.github.io/development/innersourcing/",
 	"title": "Innersourcing",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/code-reviews/",
+	"uri": "https://devopspatterns.github.io/development/code-reviews/",
 	"title": "Code Reviews",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/development/micro-vs-mono-repo/",
+	"uri": "https://devopspatterns.github.io/development/micro-vs-mono-repo/",
 	"title": "Micro vs Mono Repo",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/plan/democratic-product-mgt/",
+	"uri": "https://devopspatterns.github.io/plan/democratic-product-mgt/",
 	"title": "Feature Voting",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/categories/",
+	"uri": "https://devopspatterns.github.io/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://www.devopspatterns.org/tags/",
+	"uri": "https://devopspatterns.github.io/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

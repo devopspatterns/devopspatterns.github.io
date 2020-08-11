@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deploy on DevOps Patterns</title>
-    <link>https://www.devopspatterns.org/deploy/</link>
+    <link>https://devopspatterns.github.io/deploy/</link>
     <description>Recent content in Deploy on DevOps Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 13:51:15 -0400</lastBuildDate>
     
-	<atom:link href="https://www.devopspatterns.org/deploy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopspatterns.github.io/deploy/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

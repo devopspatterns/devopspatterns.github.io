@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Package Release on DevOps Patterns</title>
-    <link>https://www.devopspatterns.org/release/package-release/</link>
+    <link>https://devopspatterns.github.io/release/package-release/</link>
     <description>Recent content in Package Release on DevOps Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 14:44:54 -0400</lastBuildDate>
     
-	<atom:link href="https://www.devopspatterns.org/release/package-release/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopspatterns.github.io/release/package-release/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

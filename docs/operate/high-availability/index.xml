@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High Availability on DevOps Patterns</title>
-    <link>https://www.devopspatterns.org/operate/high-availability/</link>
+    <link>https://devopspatterns.github.io/operate/high-availability/</link>
     <description>Recent content in High Availability on DevOps Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 14:48:15 -0400</lastBuildDate>
     
-	<atom:link href="https://www.devopspatterns.org/operate/high-availability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopspatterns.github.io/operate/high-availability/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

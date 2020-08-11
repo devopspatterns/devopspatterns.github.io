@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Value Stream Analysis on DevOps Patterns</title>
-    <link>https://www.devopspatterns.org/plan/value-stream-analysis/</link>
+    <link>https://devopspatterns.github.io/plan/value-stream-analysis/</link>
     <description>Recent content in Value Stream Analysis on DevOps Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 09:06:09 -0400</lastBuildDate>
     
-	<atom:link href="https://www.devopspatterns.org/plan/value-stream-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopspatterns.github.io/plan/value-stream-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

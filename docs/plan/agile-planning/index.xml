@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Planning on DevOps Patterns</title>
-    <link>https://www.devopspatterns.org/plan/agile-planning/</link>
+    <link>https://devopspatterns.github.io/plan/agile-planning/</link>
     <description>Recent content in Agile Planning on DevOps Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 09:03:47 -0400</lastBuildDate>
     
-	<atom:link href="https://www.devopspatterns.org/plan/agile-planning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopspatterns.github.io/plan/agile-planning/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
