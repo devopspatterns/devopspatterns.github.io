@@ -1,0 +1,11 @@
+baseURL = "https://www.devopspatterns.org/"
+languageCode = "en-us"
+title = "DevOps Patterns"
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "devops"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
