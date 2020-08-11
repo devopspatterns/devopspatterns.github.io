@@ -1,0 +1,449 @@
+[
+{
+	"uri": "https://www.devopspatterns.org/build/automate-the-build/",
+	"title": "Automate the Build",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/scm-usage/",
+	"title": "SCM Usage",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/requirements-tooling/",
+	"title": "Requirements Tooling",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/",
+	"title": "Plan",
+	"tags": [],
+	"description": "",
+	"content": "Plan These are basic planning patterns.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/continuous-integration/",
+	"title": "Continuous Integration",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/branching-strategies/",
+	"title": "Branching Strategies",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/",
+	"title": "Development",
+	"tags": [],
+	"description": "",
+	"content": "Development Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/agile-planning/",
+	"title": "Agile Planning",
+	"tags": [],
+	"description": "",
+	"content": "This is some content\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/fail-fast/",
+	"title": "Fail Fast",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/",
+	"title": "Build",
+	"tags": [],
+	"description": "",
+	"content": "Build Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/development/changesets/",
+	"title": "Changesets",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/limit-wip/",
+	"title": "Limit Wip",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/",
+	"title": "Deploy",
+	"tags": [],
+	"description": "",
+	"content": "Deploy Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/job-config-as-code/",
+	"title": "Job Config as Code",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/distributed-work/",
+	"title": "Distributed Work",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/multi-functional-teams/",
+	"title": "Multi Functional Teams",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/",
+	"title": "Test",
+	"tags": [],
+	"description": "",
+	"content": "Test Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/trigger-the-build/",
+	"title": "Trigger the Build",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/coding-standards/",
+	"title": "Coding Standards",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/value-stream-analysis/",
+	"title": "Value Stream Analysis",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/",
+	"title": "Release",
+	"tags": [],
+	"description": "",
+	"content": "Release Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/validate-merges/",
+	"title": "Validate Merges",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/modular-architecture/",
+	"title": "Modular Architecture",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/",
+	"title": "Operate",
+	"tags": [],
+	"description": "",
+	"content": "Operate Lorem Ipsum.\n"
+},
+{
+	"uri": "https://www.devopspatterns.org/build/capability-based-agents/",
+	"title": "Capability Based Agents",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/ephermal-agents/",
+	"title": "Ephermal Agents",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/immutable-agents/",
+	"title": "Immutable Agents",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/",
+	"title": "DevOps Patterns",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/security-reviews/",
+	"title": "Security Reviews",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/high-availability/",
+	"title": "High Availability",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/preemptive-notifications/",
+	"title": "Preemptive Notifications",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/aggregate-logging/",
+	"title": "Aggregate Logging",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/backup-restore/",
+	"title": "Backup Restore",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/flexible-resources/",
+	"title": "Flexible Resources",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/immutable-infrastructure/",
+	"title": "Immutable Infrastructure",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/operate/configuration-management/",
+	"title": "Configuration Management",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/package-release/",
+	"title": "Package Release",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/package-identification/",
+	"title": "Package Identification",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/external-library-use/",
+	"title": "External Library Use",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/automated-release/",
+	"title": "Automated Release",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/artifact-scanning/",
+	"title": "Artifact Scanning",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/release/artifact-repository/",
+	"title": "Artifact Repository",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/incremental-testing/",
+	"title": "Incremental Testing",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/visualize-results/",
+	"title": "Visualize Results",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/fail-the-build/",
+	"title": "Fail the Build",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/tests-as-code/",
+	"title": "Tests as Code",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/test/unit-test/",
+	"title": "Unit Test",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/no-downtime-deployments/",
+	"title": "No Downtime Deployments",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/smaller-deployments/",
+	"title": "Smaller Deployments",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/optimize-for-resilency/",
+	"title": "Optimize for Resilency",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/flexible-resources/",
+	"title": "Flexible Resources",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/limit-blast-radius/",
+	"title": "Limit Blast Radius",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/config-as-code/",
+	"title": "Config as Code",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/deploy/automate-provisioning/",
+	"title": "Automate Provisioning",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/visualize-build-status/",
+	"title": "Visualize Build Status",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/simplify-onboarding/",
+	"title": "Simplify Onboarding",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/build/autocreate-build-job/",
+	"title": "Autocreate Build Job",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/traceability/",
+	"title": "Traceability",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/innersourcing/",
+	"title": "Innersourcing",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/code-reviews/",
+	"title": "Code Reviews",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/development/micro-vs-mono-repo/",
+	"title": "Micro vs Mono Repo",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/plan/democratic-product-mgt/",
+	"title": "Feature Voting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.devopspatterns.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

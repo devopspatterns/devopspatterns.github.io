@@ -2,6 +2,7 @@ baseURL = "https://www.devopspatterns.org/"
 languageCode = "en-us"
 title = "DevOps Patterns"
 theme = "hugo-theme-learn"
+publishDir = "docs"
 
 [params]
 themeVariant = "devops"

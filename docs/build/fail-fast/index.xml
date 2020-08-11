@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fail Fast on DevOps Patterns</title>
+    <link>https://www.devopspatterns.org/build/fail-fast/</link>
+    <description>Recent content in Fail Fast on DevOps Patterns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 13:46:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.devopspatterns.org/build/fail-fast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

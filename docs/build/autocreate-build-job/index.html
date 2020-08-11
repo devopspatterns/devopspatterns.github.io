@@ -1,0 +1,2894 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.73.0" />
+    <meta name="description" content="">
+
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>Autocreate Build Job :: DevOps Patterns</title>
+
+    
+    <link href="/css/nucleus.css?1597166205" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1597166205" rel="stylesheet">
+    <link href="/css/hybrid.css?1597166205" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1597166205" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1597166205" rel="stylesheet">
+    <link href="/css/auto-complete.css?1597166205" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1597166205" rel="stylesheet">
+    <link href="/css/theme.css?1597166205" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1597166205" rel="stylesheet">
+    
+    <link href="/css/theme-devops.css?1597166205" rel="stylesheet">
+    
+    
+
+    <script src="/js/jquery-3.3.1.min.js?1597166205"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/build/autocreate-build-job/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="https://www.devopspatterns.org/">
+  DevOps Patterns
+</a>
+
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1597166205"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1597166205"></script>
+<script type="text/javascript">
+    
+        var baseurl = "https:\/\/www.devopspatterns.org\/";
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1597166205"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/" title="Plan" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/">
+          Plan
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/requirements-tooling/" title="Requirements Tooling" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/requirements-tooling/">
+          Requirements Tooling
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/agile-planning/" title="Agile Planning" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/agile-planning/">
+          Agile Planning
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/limit-wip/" title="Limit Wip" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/limit-wip/">
+          Limit Wip
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/multi-functional-teams/" title="Multi Functional Teams" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/multi-functional-teams/">
+          Multi Functional Teams
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/value-stream-analysis/" title="Value Stream Analysis" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/value-stream-analysis/">
+          Value Stream Analysis
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/plan/democratic-product-mgt/" title="Feature Voting" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/plan/democratic-product-mgt/">
+          Feature Voting
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/" title="Development" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/">
+          Development
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/scm-usage/" title="SCM Usage" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/scm-usage/">
+          SCM Usage
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/branching-strategies/" title="Branching Strategies" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/branching-strategies/">
+          Branching Strategies
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/changesets/" title="Changesets" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/changesets/">
+          Changesets
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/distributed-work/" title="Distributed Work" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/distributed-work/">
+          Distributed Work
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/coding-standards/" title="Coding Standards" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/coding-standards/">
+          Coding Standards
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/modular-architecture/" title="Modular Architecture" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/modular-architecture/">
+          Modular Architecture
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/traceability/" title="Traceability" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/traceability/">
+          Traceability
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/innersourcing/" title="Innersourcing" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/innersourcing/">
+          Innersourcing
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/code-reviews/" title="Code Reviews" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/code-reviews/">
+          Code Reviews
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/development/micro-vs-mono-repo/" title="Micro vs Mono Repo" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development/micro-vs-mono-repo/">
+          Micro vs Mono Repo
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/" title="Build" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/build/">
+          Build
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/automate-the-build/" title="Automate the Build" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/automate-the-build/">
+          Automate the Build
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/continuous-integration/" title="Continuous Integration" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/continuous-integration/">
+          Continuous Integration
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/fail-fast/" title="Fail Fast" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/fail-fast/">
+          Fail Fast
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/job-config-as-code/" title="Job Config as Code" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/job-config-as-code/">
+          Job Config as Code
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/trigger-the-build/" title="Trigger the Build" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/trigger-the-build/">
+          Trigger the Build
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/validate-merges/" title="Validate Merges" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/validate-merges/">
+          Validate Merges
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/capability-based-agents/" title="Capability Based Agents" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/capability-based-agents/">
+          Capability Based Agents
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/ephermal-agents/" title="Ephermal Agents" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/ephermal-agents/">
+          Ephermal Agents
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/immutable-agents/" title="Immutable Agents" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/immutable-agents/">
+          Immutable Agents
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/visualize-build-status/" title="Visualize Build Status" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/visualize-build-status/">
+          Visualize Build Status
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/simplify-onboarding/" title="Simplify Onboarding" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/build/simplify-onboarding/">
+          Simplify Onboarding
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/build/autocreate-build-job/" title="Autocreate Build Job" class="dd-item 
+        parent
+        active
+        
+        ">
+      <a href="/build/autocreate-build-job/">
+          Autocreate Build Job
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/" title="Deploy" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/">
+          Deploy
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/no-downtime-deployments/" title="No Downtime Deployments" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/no-downtime-deployments/">
+          No Downtime Deployments
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/smaller-deployments/" title="Smaller Deployments" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/smaller-deployments/">
+          Smaller Deployments
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/optimize-for-resilency/" title="Optimize for Resilency" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/optimize-for-resilency/">
+          Optimize for Resilency
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/flexible-resources/" title="Flexible Resources" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/flexible-resources/">
+          Flexible Resources
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/limit-blast-radius/" title="Limit Blast Radius" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/limit-blast-radius/">
+          Limit Blast Radius
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/config-as-code/" title="Config as Code" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/config-as-code/">
+          Config as Code
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/deploy/automate-provisioning/" title="Automate Provisioning" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deploy/automate-provisioning/">
+          Automate Provisioning
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/" title="Test" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/">
+          Test
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/incremental-testing/" title="Incremental Testing" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/incremental-testing/">
+          Incremental Testing
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/visualize-results/" title="Visualize Results" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/visualize-results/">
+          Visualize Results
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/fail-the-build/" title="Fail the Build" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/fail-the-build/">
+          Fail the Build
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/tests-as-code/" title="Tests as Code" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/tests-as-code/">
+          Tests as Code
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/test/unit-test/" title="Unit Test" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/test/unit-test/">
+          Unit Test
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/" title="Release" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/">
+          Release
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/package-release/" title="Package Release" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/package-release/">
+          Package Release
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/package-identification/" title="Package Identification" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/package-identification/">
+          Package Identification
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/external-library-use/" title="External Library Use" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/external-library-use/">
+          External Library Use
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/automated-release/" title="Automated Release" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/automated-release/">
+          Automated Release
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/artifact-scanning/" title="Artifact Scanning" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/artifact-scanning/">
+          Artifact Scanning
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/release/artifact-repository/" title="Artifact Repository" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/release/artifact-repository/">
+          Artifact Repository
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/" title="Operate" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/">
+          Operate
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/security-reviews/" title="Security Reviews" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/security-reviews/">
+          Security Reviews
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/high-availability/" title="High Availability" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/high-availability/">
+          High Availability
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/preemptive-notifications/" title="Preemptive Notifications" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/preemptive-notifications/">
+          Preemptive Notifications
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/aggregate-logging/" title="Aggregate Logging" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/aggregate-logging/">
+          Aggregate Logging
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/backup-restore/" title="Backup Restore" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/backup-restore/">
+          Backup Restore
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/flexible-resources/" title="Flexible Resources" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/flexible-resources/">
+          Flexible Resources
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/immutable-infrastructure/" title="Immutable Infrastructure" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/immutable-infrastructure/">
+          Immutable Infrastructure
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/operate/configuration-management/" title="Configuration Management" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/operate/configuration-management/">
+          Configuration Management
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      <p>Built with <i class="fas fa-heart"></i> by <a href="https://www.brentmcconnell.com">Brent McConnell</a></p>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>DevOps Patterns</a> > <a href='/build/'>Build</a> > Autocreate Build Job
+          
+        
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents"></nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="body-inner">
+          
+            <h1>
+              
+              Autocreate Build Job
+            </h1>
+          
+
+        
+
+
+
+	
+
+
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/build/simplify-onboarding/" title="Simplify Onboarding"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/deploy/" title="Deploy" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1597166205"></script>
+    <script src="/js/perfect-scrollbar.min.js?1597166205"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1597166205"></script>
+    <script src="/js/jquery.sticky.js?1597166205"></script>
+    <script src="/js/featherlight.min.js?1597166205"></script>
+    <script src="/js/highlight.pack.js?1597166205"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js?1597166205"></script>
+    <script src="/js/learn.js?1597166205"></script>
+    <script src="/js/hugo-learn.js?1597166205"></script>
+
+    <link href="/mermaid/mermaid.css?1597166205" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1597166205"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    
+
+  </body>
+</html>
