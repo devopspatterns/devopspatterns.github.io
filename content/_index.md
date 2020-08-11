@@ -6,7 +6,7 @@ date = 2020-08-10T13:44:49-04:00
 # Welcome!
 
 Welcome to our little slice of Internet nirvana where the DevOps patterns flow like
-wine and, hopefully... are just as useful <i class="fas grin-wink"></i>
+wine and, hopefully... are just as useful <i class="fas fa-grin-wink"></i>.
 
 ## So what is DevOps?
 
@@ -15,16 +15,16 @@ collaboration and productivity by automating infrastructure, automating
 workflows and continuously measuring application performance.
 
 This is a very straightforward definition that belittles the complexity
-involved with bringing developers together with operations teams to release
-software.  Fundamentally these two groups have differing goals which often lead
+involved with bringing developers and operations teams together to release
+software.  Fundamentally these two groups have differing objectives which often lead
 to conflict.  Developers want to release software features and are often
 incentivized with regard to releasing software.  Operations teams, however, strive for
 goals like uptime and will often have service level agreements (SLAs) that
 limit their incentive to make changes to production software.  The clash between
 these differing incentives is often difficult to assuage.
 
-Often you'll hear DevOps compared with a 3-legged stool.  Each leg represents a
-fundamental part of successful devops transformation.  These 3 parts are PEOPLE, PROCESS and
+Often you'll hear DevOps compared with a 3-legged stool.  Each leg representing a
+fundamental part of a successful devops transformation.  These 3 parts are PEOPLE, PROCESS and
 TOOLING.  In order to achieve high-performance in software delivery all 3 of these
 components require attention to help align an organization around
 delivering software efficiently to end customers.
