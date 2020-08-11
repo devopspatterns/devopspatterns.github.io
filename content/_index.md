@@ -6,7 +6,8 @@ date = 2020-08-10T13:44:49-04:00
 # Welcome!
 
 Welcome to our little slice of Internet nirvana where the DevOps patterns flow like
-wine and, hopefully... are just as useful <i class="fas fa-grin-wink"></i>.
+wine and, hopefully... are just as useful <i class="fas fa-heart"></i>.
+
 
 ## So what is DevOps?
 
@@ -32,7 +33,7 @@ delivering software efficiently to end customers.
 ## Why is this site useful?
 Over the course of a decade we've worked with customers of all shapes and sizes
 to implement DevOps tooling and processes.  During that time we've seen things
-done really well and really poorly.  This site tries to organize some of the
+done really well and also really poorly.  This site tries to organize some of the
 better things we've seen into reusable patterns that companies can use to help
 with their adoption of DevOps.
 
