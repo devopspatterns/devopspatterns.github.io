@@ -6,7 +6,7 @@ date = 2020-08-10T13:44:49-04:00
 # Welcome!
 
 Welcome to our little slice of Internet nirvana where the DevOps patterns flow like
-wine and, hopefully... are just as useful ;)
+wine and, hopefully... are just as useful <i class="fas grin-wink"></i>
 
 ## So what is DevOps?
 
@@ -30,9 +30,9 @@ organize our patterns.  Whether the pattern is related to people, process or
 tooling you'll find it under the following 7 categories:
 
 * [Plan](/plan)
-* Development
-* Build
-* Deploy
-* Test
-* Release
-* Operate
+* [Development](/development)
+* [Build](/build)
+* [Deploy](/deploy)
+* [Test](/test)
+* [Release](/release)
+* [Operate](/operate)
