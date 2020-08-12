@@ -21,10 +21,13 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+      with:
+        submodules: 'true'
 
     - name: run Hugo
       run: |
         docker run --rm -v $(pwd):/src klakegg/hugo:0.74.2-alpine
+        ls -la
 
     # Runs a set of commands using the runners shell
     - name: Checkin changes to Hugo files (/docs) for publication
