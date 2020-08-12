@@ -39,7 +39,8 @@ with their adoption of DevOps.
 
 ## Organization
 This site is organized into 7 categories of patterns related to DevOps.  Why 7?
-Basically, we had to draw the line somewhere.  We could have categorized things
+Basically, we had to draw the line somewhere and at some point felt like we were
+just overanalyzing.  We could have categorized things
 into people, process, tooling and then had several categories under each of
 those but we choose a simpler route of just having 7 buckets that we use to
 organize our patterns.  Whether the pattern is related to people, process or
