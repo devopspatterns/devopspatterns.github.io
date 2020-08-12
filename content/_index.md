@@ -19,7 +19,7 @@ This is a very straightforward definition that belittles the complexity
 involved with bringing developers and operations teams together to release
 software.  Fundamentally these two groups have differing objectives which often lead
 to conflict.  Developers want to release software features and are often
-incentivized with regard to releasing software.  Operations teams, however, strive for
+incentivized in that regard.  Operations teams, however, strive for
 goals like uptime and will often have service level agreements (SLAs) that
 limit their incentive to make changes to production software.  The clash between
 these differing incentives is often difficult to assuage.
