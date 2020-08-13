@@ -7,4 +7,4 @@ chapter = true
 
 # Plan
 
-These are basic planning patterns.
+Planning is an essential part of any DevOps endeavor.  
