@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automate Quality on DevOps Patterns</title>
+    <link>https://devopspatterns.github.io/test/automate-quality/</link>
+    <description>Recent content in Automate Quality on DevOps Patterns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Aug 2020 14:39:35 -0400</lastBuildDate>
+    
+	<atom:link href="https://devopspatterns.github.io/test/automate-quality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
