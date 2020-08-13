@@ -277,7 +277,7 @@
 	"title": "Configuration Management",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Application configuration should exist seperately from application packaging Applications should be independent of external configuration for their environment so that the same application package can run in multiple environments (DEV, QA, PROD) Use secret management software (Azure KeyVault, Hashicorp Vault, Kubernetes Secrets, etc)  "
 },
 {
 	"uri": "https://devopspatterns.github.io/release/package-release/",
