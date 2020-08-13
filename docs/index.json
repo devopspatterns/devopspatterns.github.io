@@ -109,7 +109,7 @@
 	"title": "Multi Functional Teams",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " You build it. You own it. Teams should be self-sufficient and capable of all phases of the application lifecyle including deployment. There should be no team handoffs. The team that builds it should be able to deploy it and managed it in production. The team should be able to supported released features as well as add new capabilities to the application  "
 },
 {
 	"uri": "https://devopspatterns.github.io/test/",
