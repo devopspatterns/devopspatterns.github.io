@@ -5,9 +5,6 @@ date = 2020-08-10T13:44:49-04:00
 
 # Welcome!
 
-Welcome to our little slice of Internet nirvana where the DevOps patterns flow like
-wine and, hopefully... are just as useful <i class="fas fa-heart"></i>.
-
 
 ## So what is DevOps?
 
